@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engeneering
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me 
-              (Reach me through chamudithapasindu54@gmail.com)
+              (Reach me through th3gh0s8@duck.com)
 
 <!---
 th3gh0s8/th3gh0s8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
