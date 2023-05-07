@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 🤝 I’m looking for help with **ideo Game Development**
+- 🤝 I’m looking for help with **Video Game Development**
 
 - 📫 How to reach me **th3gh0s8@duck.com**
 
