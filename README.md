@@ -3,7 +3,7 @@
 🧠 Developer from Sri Lanka  
 💻 Arch Linux user | Terminal power user | FOSS enthusiast  
 🦀 Learning Rust | 🐚 Shell scripting | 🖥️ Neovim + Tiling WMs  
-🌱 Currently: Building dotfiles, learning Lua, creating personal tools
+🌱 Currently: Learning Lua, creating personal tools
 
 ## 🔧 My Stack
 - OS: Arch Linux (Hyprland + KDE)
