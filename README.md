@@ -11,7 +11,7 @@
 - Languages: Shell, Rust (learning), Lua (learning), Python (basic)
 
 ## 📁 Repos to check out
-- [`dotfiles`](https://github.com/th3gh0s8/dotfiles): My full rice setup
+- [`dotfiles`](https://github.com/th3gh0s8/.dotfiles): My full rice setup
 <!-- - [`scripts`](https://github.com/th3gh0s8/scripts): Useful terminal tools
 - `... add more as you build` -->
 
