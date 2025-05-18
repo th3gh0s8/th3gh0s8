@@ -8,7 +8,7 @@
 ## 🔧 My Stack
 - OS: Arch Linux (Hyprland + KDE)
 - Tools: Neovim, Git, Qutebrowser, Fish shell, ripgrep, lazy.nvim
-- Languages: Shell, Rust (learning), Lua (learning), Python (basic)
+- Languages: Shell, Rust, Lua, Python
 
 ## 📁 Repos to check out
 - [`dotfiles`](https://github.com/th3gh0s8/.dotfiles): My full rice setup
