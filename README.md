@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pasindu (gh0s8)
 
-🧠 Self-taught developer from Sri Lanka  
+🧠 Developer from Sri Lanka  
 💻 Arch Linux user | Terminal power user | FOSS enthusiast  
 🦀 Learning Rust | 🐚 Shell scripting | 🖥️ Neovim + Tiling WMs  
 🌱 Currently: Building dotfiles, learning Lua, creating personal tools
