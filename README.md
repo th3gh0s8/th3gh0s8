@@ -2,13 +2,13 @@
 
 🧠 Developer from Sri Lanka  
 💻 Arch Linux user | Terminal power user | FOSS enthusiast  
-🦀 Learning Rust | 🐚 Shell scripting | 🖥️ Neovim + Tiling WMs  
+⚡ Learning Zig | 🐚 Shell scripting | 🖥️ Neovim + Tiling WMs  
 🌱 Currently: Learning Lua, creating personal tools
 
 ## 🔧 My Stack
 - OS: Arch Linux (Hyprland + KDE)
 - Tools: Neovim, Git, Qutebrowser, Fish shell, ripgrep, lazy.nvim
-- Languages: Shell, Rust, Lua, Python
+- Languages: Shell, Zig, Rust, Lua, Python
 
 ## 📁 Repos to check out
 - [`dotfiles`](https://github.com/th3gh0s8/.dotfiles): My full rice setup
