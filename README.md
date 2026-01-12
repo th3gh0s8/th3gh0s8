@@ -18,3 +18,4 @@
 ## 📬 Reach Me
 - 📧 Email: th3gh0s8@duck.com 
 <!-- - 🌐 Blog/Portfolio: *(optional, I can help you build this)* -->
+[![An image of @th3gh0s8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/th3gh0s8)](https://holopin.io/@th3gh0s8)
