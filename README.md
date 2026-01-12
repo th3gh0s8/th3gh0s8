@@ -23,4 +23,6 @@
 <!--
 <a href="https://app.daily.dev/th3gh0s8"><img src="https://api.daily.dev/devcards/v2/Qn6hpdWB97hsVOHTDDX7Z.png?type=wide&r=x2y" width="652" alt="chamuditha pasindu's Dev Card"/></a>
 -->
+<!--
 <a href="https://app.daily.dev/th3gh0s8"><img src="https://api.daily.dev/devcards/v2/Qn6hpdWB97hsVOHTDDX7Z.png?type=default&r=x2y" width="356" alt="chamuditha pasindu's Dev Card"/></a>
+-->
